@@ -1,0 +1,11 @@
+C:\Users\Şevval Ekinci\Desktop\C#\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.exe.config
+C:\Users\Şevval Ekinci\Desktop\C#\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.exe
+C:\Users\Şevval Ekinci\Desktop\C#\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.pdb
+C:\Users\Şevval Ekinci\Desktop\C#\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.csproj.AssemblyReference.cache
+C:\Users\Şevval Ekinci\Desktop\C#\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şevval Ekinci\Desktop\C#\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza_Oyunu.Form1.resources
+C:\Users\Şevval Ekinci\Desktop\C#\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza_Oyunu.Properties.Resources.resources
+C:\Users\Şevval Ekinci\Desktop\C#\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.csproj.GenerateResource.cache
+C:\Users\Şevval Ekinci\Desktop\C#\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Şevval Ekinci\Desktop\C#\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.exe
+C:\Users\Şevval Ekinci\Desktop\C#\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.pdb
